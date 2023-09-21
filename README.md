@@ -19,5 +19,5 @@ Sou desenvolvedor back-end apaixonado por tecnologia e soluções digitais. Com 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/)
 
 ### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srmesquita22&bg_color=000&show_icons=true&icon_color=30A3DC&theme=radical) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=srmesquita22&layout=compact&theme=radical&bg_color=000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srmesquita22&bg_color=000&show_icons=true&icon_color=30A3DC&theme=gothan) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=srmesquita22&layout=compact&theme=gothan&bg_color=000)
