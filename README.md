@@ -1,5 +1,5 @@
 ## Renato Mesquita 
-Sou desenvolvedor back-end apaixonado por tecnologia e soluções digitais. Com mais de 10 anos de experincia na área, tenho a capacidade de transformar ideias em projetos incríveis e escaláveis. Possuo conhecimento profundo em diferentes tecnologias, plataformas e linguagens de programação, o que me permite lidar com qualquer desafio técnico. Sou um colaborador confiável e dedicado, sempre procurando inovar e aperfeiçoar meus conhecimentos. Com minha ética de trabalho sólida e habilidade para trabalhar em equipe, sou capaz de entregar soluções digitais de alta qualidade e impactantes.
+Sou um desenvolvedor back-end apaixonado por tecnologia e soluções digitais, com mais de 10 anos de experiência na área. Tenho a capacidade de transformar ideias em projetos incríveis e escaláveis. Possuo um conhecimento profundo em diferentes tecnologias, plataformas e linguagens de programação, o que me permite enfrentar qualquer desafio técnico. Sou um colaborador confiável e dedicado, sempre em busca de inovação e aperfeiçoamento dos meus conhecimentos. Com minha sólida ética de trabalho e habilidade para trabalhar em equipe, sou capaz de entregar soluções digitais de alta qualidade e impacto.
 
 
 
